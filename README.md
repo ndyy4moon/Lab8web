@@ -158,7 +158,7 @@ Data yang dimasukkan akan diproses menggunakan PHP dan disimpan ke dalam databas
 
 **Hasil Setelah Menambahkan Barang:**
 
-![Tampilan Hasil Tambah Barang](screenshot/tampiltambahbarang.png)
+![Tampilan Hasil Tambah Barang](screenshot/tampilantambahbarang.png)
 
 ### 6. MENGUBAH DATA BARANG (UPDATE)
 
